@@ -16,7 +16,7 @@ chmod +x yt.sh
 For adding the channel, you can use both channel id or channel name.
 
 Adding channel using channel id
-(the id should looks like this -> "UCpmx8TiMv9yR1ncyldGyyVA")
+(the id should looks something like this -> "UCpmx8TiMv9yR1ncyldGyyVA")
 ```
 ./yt.sh add_newch_from_name $channelid
 ```
@@ -38,4 +38,4 @@ Then just run the script in backgroud, it will send notification whenever a new 
 
 ## TDL
 1. Spare API key switcher
-2. Registry for ch names
+2. Registry for channel names
