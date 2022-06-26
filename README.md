@@ -1,6 +1,6 @@
 # YT_Notify_TG_Bot
 ## Intro
-A shell script based project is used to notify a user when the YT channel has uploaded a new video.
+A shell script based project is used to notify a user when the YT channel/playlist has uploaded a new video.
 
 ## Usage
 First, inside the project directory, you will need to create a subdirectory for storing the record of VideoId of each Playlist.
